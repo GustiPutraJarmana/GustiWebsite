@@ -31,8 +31,12 @@ html {
 
   .card-img-top {
     height: 10em;
-  } */
+  }
 
+.gambar {
+background-image: url("https://ikodes.net/wp-content/uploads/2020/02/ikodes-fullstack.png");
+
+}
 
 #blog {
     text-align: center;
